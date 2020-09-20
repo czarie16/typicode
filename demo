@@ -1,1 +1,24 @@
-
+[{
+        id: 1,
+        name: "Czarina Mangaoang",
+        age: 25,
+        address: {
+            exact: "sampleAddress1"
+        }
+    },
+    {
+        id: 3,
+        name: "Joana Mangaoang",
+        age: 25,
+        address: {
+            exact: "sampleAddress1"
+        }
+    },
+    {
+        id: 2,
+        name: "Andres Mangaoang",
+        age: 25,
+        address: {
+            exact: "sampleAddress1"
+        }
+  }]
